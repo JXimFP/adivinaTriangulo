@@ -1,0 +1,13 @@
+public class calculoDeEcuacion
+{
+	public static void main(String[] args)
+	{
+		int a = 4, b = 5, c = 1;
+		double x1 = 0,0;
+		double x1 = 0,0;
+
+		x1 = (-b + math.sqrt(b*b-4*a*c))/(2*a);
+		
+		system.out.println(x1);
+	}
+}

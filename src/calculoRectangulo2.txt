@@ -1,0 +1,17 @@
+public class calculoRectangulo 
+{
+	public static void main(Strings[] args) 
+	{
+		int largo, ancho;
+		double perimetro;
+		double area;
+
+		System.out.print("Escribe el largo del rectangulo:");
+		largo= sc.nextInt();
+		System.out.print("Escribe el anvho del rectangulo:");
+		ancho= sc.nextInt();
+		perimetro= (largo+ancho)*2;
+		area= largo*ancho
+		System.out.println("El perimetro de un rectangulo es "+ perimetro " y el area es "+ area);
+	}
+}
